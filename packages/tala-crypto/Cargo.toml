@@ -13,6 +13,7 @@ name = "tala_crypto"
 path = "src/lib.rs"
 
 [dependencies]
+tala-protocol = { path = "../tala-protocol/rust" }
 curve25519-dalek.workspace = true
 merlin.workspace = true
 subtle.workspace = true
