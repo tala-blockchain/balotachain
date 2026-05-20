@@ -11,7 +11,7 @@ version.workspace = true
 path = "src/lib.rs"
 
 [dependencies]
-curve25519-dalek = { version = "4", features = ["digest", "rand_core", "serde"] }
+curve25519-dalek = { version = "4", features = ["digest", "rand_core", "serde", "zeroize"] }
 merlin = "3"
 rand_core = "0.6"
 serde = { version = "1", features = ["derive"] }
