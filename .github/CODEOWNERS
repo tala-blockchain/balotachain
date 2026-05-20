@@ -1,0 +1,15 @@
+# Default ownership for the early BalotaChain repository.
+* @Banyel3
+
+# Tala framework packages.
+/packages/tala-crypto/ @Banyel3
+/packages/tala-credentials/ @Banyel3
+/packages/tala-bulletin/ @Banyel3
+
+# BalotaChain application.
+/apps/balotachain/ @Banyel3
+
+# Documentation and repository governance.
+/docs/ @Banyel3
+/.github/ @Banyel3
+
